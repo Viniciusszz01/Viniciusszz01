@@ -3,7 +3,7 @@ read.markd
 
 **`Desenvolvedor Backend`**
 
-Me chamo Vinicius, tenho 22 anos e sou natural de Cachoeira Paulista. Sou estudante de Engenharia da Computação e atualmente estou no 3º semestre, com foco em construir uma base sólida em desenvolvimento de software e na resolução de problemas complexos. Possuo conhecimento acadêmico e prático em linguagens como C e C++, além de experiência no desenvolvimento de aplicações utilizando Java e Python.Também tenho familiaridade com Banco de Dados, compreendendo a importância da organização e manipulação eficiente das informações para o bom desempenho de sistemas e projetos. Busco sempre aprimorar minhas habilidades técnicas e aprender novas tecnologias que agreguem valor ao meu desenvolvimento profissional.
+Me chamo Vinicius, tenho 22 anos e sou natural de Cachoeira Paulista. Sou estudante de Engenharia da Computação e atualmente(3º semestre), com foco em construir uma base sólida em desenvolvimento de software e na resolução de problemas complexos. Possuo conhecimento acadêmico e prático em linguagens como C e C++, além de experiência no desenvolvimento de aplicações utilizando Java e Python.Também tenho familiaridade com Banco de Dados, compreendendo a importância da organização e manipulação eficiente das informações para o bom desempenho de sistemas e projetos. Busco sempre aprimorar minhas habilidades técnicas e aprender novas tecnologias que agreguem valor ao meu desenvolvimento profissional.
 
 ---
 
