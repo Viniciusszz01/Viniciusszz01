@@ -60,13 +60,6 @@ Me chamo Vinicius, tenho 22 anos e sou natural de Cachoeira Paulista. Sou estuda
 
 ## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    src=src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciusszz01&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
 
   <img 
     align="left" 
